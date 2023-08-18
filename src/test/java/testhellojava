@@ -3,7 +3,7 @@ public class testHelloJava {
 	public static void main(String[] args) {
 
 		System.out.println("This is test file");
-		System.out.println("This is correct test file");
+		System.out.println("This is changed test file");
 		  
 		  
 	
